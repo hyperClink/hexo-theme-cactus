@@ -1,6 +1,6 @@
 nav:
   home: Главная
-  about: Обо мне
+  about: О сайте
   articles: Блог
   projects: Проекты
   search: Искать
@@ -9,7 +9,7 @@ footer:
   copyright: ' '
 
 index:
-  find_me_on: 'Свяжитесь со мной:'
+  find_me_on: 'Обратная связь:'
   enum_comma: ','
   enum_and: и
   articles: Блог
